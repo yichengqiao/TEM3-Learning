@@ -1,7 +1,7 @@
 # TEM³-Learning: Temporal-Efficient Multimodal Meta-Learning
 
 <div align="center">
-  <img src="framework.png" alt="TEM³-Learning Logo" width="300"/>
+  <img src="framework.png" alt="TEM³-Learning Logo" width="600"/>
 </div>
 
 ## 简介 | Introduction
