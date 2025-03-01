@@ -1,7 +1,7 @@
 # TEM³-Learning: Temporal-Efficient Multimodal Meta-Learning
 
 <div align="center">
-  <img src="assets/logo.png" alt="TEM³-Learning Logo" width="300"/>
+  <img src="framework.pdf" alt="TEM³-Learning Logo" width="300"/>
 </div>
 
 ## 简介 | Introduction
@@ -9,22 +9,6 @@
 TEM³-Learning (Temporal-Efficient Multimodal Meta-Learning) 是一个创新的机器学习框架，旨在通过时间高效的多模态元学习方法解决复杂的感知和决策问题。该项目结合了时间序列分析、多模态学习和元学习的优势，为机器人和智能系统提供了一种新的学习范式。
 
 TEM³-Learning (Temporal-Efficient Multimodal Meta-Learning) is an innovative machine learning framework designed to address complex perception and decision-making problems through temporally efficient multimodal meta-learning approaches. This project combines the strengths of temporal sequence analysis, multimodal learning, and meta-learning to provide a new learning paradigm for robotics and intelligent systems.
-
-## 作者 | Authors
-
-- Wenzhuo Liu¹
-- Yicheng Qiao²
-- Zhen Wang¹
-- Qiannan Guo²
-- Zilong Chen²
-- Meihua Zhou²
-- Xinran Li³
-- Letian Wang⁴
-- Zhiwei Li⁵
-- Huaping Liu²
-- Wenshuo Wang¹
-
-¹²³⁴⁵ 代表不同的机构隶属关系 | Representing different institutional affiliations
 
 ## 特点 | Features
 
@@ -39,7 +23,7 @@ TEM³-Learning (Temporal-Efficient Multimodal Meta-Learning) is an innovative ma
 
 - Python 3.7+
 - CUDA 11.0+ (用于GPU加速 | for GPU acceleration)
-- 8GB+ RAM
+- 24GB+ RAM
 
 ### 安装步骤 | Installation Steps
 
@@ -171,9 +155,26 @@ If you use TEM³-Learning in your research, please cite our paper:
 ## 联系方式 | Contact
 
 如有任何问题，请通过以下方式联系我们：
-- 电子邮件：wzliu@bit.edu.cn
-- 问题追踪：[GitHub Issues](https://github.com/yourusername/TEM3-Learning/issues)
+- 电子邮件：wzliu@bit.edu.cn; yichengqiao21@gmail.com
+
 
 For any questions, please contact us at:
-- Email: wzliu@bit.edu.cn
-- Issue Tracker: [GitHub Issues](https://github.com/yourusername/TEM3-Learning/issues)
+- Email: wzliu@bit.edu.cn; yichengqiao21@gmail.com
+
+  
+  
+## 作者 | Authors
+
+- Wenzhuo Liu¹
+- Yicheng Qiao²
+- Zhen Wang¹
+- Qiannan Guo²
+- Zilong Chen²
+- Meihua Zhou²
+- Xinran Li³
+- Letian Wang⁴
+- Zhiwei Li⁵
+- Huaping Liu²
+- Wenshuo Wang¹
+
+¹²³⁴⁵ 代表不同的机构隶属关系 | Representing different institutional affiliations
